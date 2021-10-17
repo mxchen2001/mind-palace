@@ -1,4 +1,4 @@
-# Tail Recusion
+# Tail Recursion
 
 For algorithms that involve recursion, we can implement tail recursion in certain cases to reduce the memory usage of the program.
 
