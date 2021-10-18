@@ -18,7 +18,7 @@ Notice that there exist an if-else clause in the code.
 
 ```c
 int isGreaterBL(int a, int b) {
-    return a > b & b || a <= b & b;
+    return a > b & a | a <= b & b;
 }
 ```
 
