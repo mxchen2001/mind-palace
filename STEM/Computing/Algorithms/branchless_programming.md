@@ -23,3 +23,24 @@ int isGreaterBL(int a, int b) {
 ```
 
 We removed the branch by replacing the if-else clause with a bitwise operation.
+
+Another cool example is the absolute value of an integer by Jobin Johnson.
+
+```c
+int abs(int a) {
+    if (a < 0) {
+        return -a;
+    } else {
+        return a;
+    }
+}
+```
+
+```c
+int abs(int a) {
+    int mask = a >> 31;
+    a ^= mask;
+    a -= mask;
+    return a;
+}
+```
