@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Vault",
+        "desc": "An Emulated Shell with basic shell like functionality where I keep some interesting discoveries.",
+        "img_url": "vault",
+        "link": "https://www.xige.page/vault/",
+        "keywords": [
+            "React",
+            "Shell",
+            "Github",
+            "Algorithms",
+            "Optimization"
+        ]
+    },
+    {
+        "name": "MergePad",
+        "desc": "A web based collaborative code editor that uses Automerge (CRDT) to resolve simultaneous conflicts.",
+        "img_url": "mergepad",
+        "link": "https://www.xige.page/crdt-editor/",
+        "keywords": [
+            "React",
+            "Socket.io",
+            "Automerge",
+            "CRDT",
+            "P2P"
+        ]
+    },
+    {
+        "name": "Markdown Slides",
+        "desc": "A web based slide editor/renderer that uses markdown for quick and easy editing",
+        "img_url": "mdSlides",
+        "link": "https://www.xige.page/markdown-render/",
+        "keywords": [
+            "React",
+            "Material UI"
+        ]
+    },
+    {
+        "name": "MOS",
+        "desc": "A Hobby Operating System built for x86 that was inspired after completing the PINTOS labs done in my Operating Systems.",
+        "img_url": "mos",
+        "link": "https://github.com/mxchen2001/mos",
+        "keywords": [
+            "NASM",
+            "C",
+            "Makefile",
+            "In-Progress"
+        ]
+    },
+    {
+        "name": "Ascii Diagrams",
+        "desc": "A web based app that generates ascii diagram based on a simple markup style input.",
+        "img_url": "ascii_diagram",
+        "link": "https://www.xige.page/ascii-diagrams/",
+        "keywords": [
+            "React",
+            "Material UI",
+            "In-Progress"
+        ]
+    },
+    {
+        "name": "This Website",
+        "desc": "This website is built using React an Material UI and the Parallax is built using React. This gives a quick overview of my UT life. ",
+        "img_url": "thisSite",
+        "link": "https://github.com/mxchen2001/mxchen2001.github.io",
+        "keywords": [
+            "TailwindCSS",
+            "React",
+            "Material UI"
+        ]
+    },
+    {
+        "name": "Hack TX",
+        "desc": "A NLP app built using React that that uses Google's NLP engine that gives feedback to help students with job inteviews.",
+        "img_url": "hacktx2020",
+        "link": "https://github.com/ishan0102/hacktx-20",
+        "keywords": [
+            "React",
+            "Material UI",
+            "Python"
+        ]
+    },
+    {
+        "name": "Vemno Automation",
+        "desc": "Built using ElectronJS and Python that allows you to send a large scale transaction using a spreadsheet to multiple users",
+        "img_url": "venmo_electron",
+        "link": "https://github.com/mxchen2001/Venmo-Automation",
+        "keywords": [
+            "ElectronJS",
+            "Python"
+        ]
+    }
+]

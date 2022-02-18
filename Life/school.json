@@ -1,0 +1,238 @@
+[
+    {
+        "semester": "Spring 2022",
+        "desc": "Lorem Ipsum",
+        "classes": [
+            {
+                "name": "Microarchitecture",
+                "code": "ECE 382N.19",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 5,
+                "professor": "Yale Patt"
+            },
+            {
+                "name": "Data Science Principles",
+                "code": "EE 461P",
+                "credits": 4,
+                "desc": "Lorem Ipsum",
+                "difficulty": 4,
+                "professor": "Joydeep Ghosh"
+            },
+            {
+                "name": "Data Science Lab",
+                "code": "EE 460J",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 2,
+                "professor": "Constantine Caramanis"
+            },
+            {
+                "name": "Computer Vision",
+                "code": "EE 379K",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 4,
+                "professor": "Atlas Wang"
+            }
+        ]
+    },
+    {
+        "semester": "Fall 2021",
+        "desc": "Lorem Ipsum",
+        "classes": [
+            {
+                "name": "Digital Signal Processing",
+                "code": "EE 351M",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 3,
+                "professor": "Haris Vikalo"
+            },
+            {
+                "name": "Real-time Signal Processing Lab",
+                "code": "EE 445S",
+                "credits": 4,
+                "desc": "Lorem Ipsum",
+                "difficulty": 3,
+                "professor": "Brian Evans"
+            },
+            {
+                "name": "Digital Logic Design",
+                "code": "EE 316",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 2,
+                "professor": "Nur Touba"
+            },
+            {
+                "name": "Intro Real Analysis",
+                "code": "M 361K",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 4,
+                "professor": "Alexis Vasseur"
+            }
+        ]
+    },
+    {
+        "semester": "Spring 2021",
+        "desc": "Lorem Ipsum",
+        "classes": [
+            {
+                "name": "Operating Systems",
+                "code": "EE 461S",
+                "credits": 4,
+                "desc": "Lorem Ipsum",
+                "difficulty": 5,
+                "professor": "Ramesh Yerraballi"
+            },
+            {
+                "name": "Algorithms",
+                "code": "EE 360C",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 5,
+                "professor": "Pedro Santacruz"
+            },
+            {
+                "name": "Software Design Lab",
+                "code": "EE 461L",
+                "credits": 4,
+                "desc": "Lorem Ipsum",
+                "difficulty": 2,
+                "professor": "Abhay Samant"
+            },
+            {
+                "name": "Number Theory",
+                "code": "M 328K",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 3,
+                "professor": "Mirela Ciperiani"
+            }
+        ]
+    },
+    {
+        "semester": "Fall 2020",
+        "desc": "Lorem Ipsum",
+        "classes": [
+            {
+                "name": "Computer Architecture",
+                "code": "EE 460N",
+                "credits": 4,
+                "desc": "Lorem Ipsum",
+                "difficulty": 5,
+                "professor": "Yale Patt"
+            },
+            {
+                "name": "Data Structures II (Software II)",
+                "code": "EE 422C",
+                "credits": 4,
+                "desc": "Lorem Ipsum",
+                "difficulty": 3,
+                "professor": "Vallath Nandakumar"
+            },
+            {
+                "name": "Engineering Communications",
+                "code": "EE 333T",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 1,
+                "professor": "Kristin Canfield"
+            },
+            {
+                "name": "Probability and Random Processes",
+                "code": "M 351K",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 4,
+                "professor": "Aristotle Arapostathis"
+            },
+            {
+                "name": "Linear Systems and Signals",
+                "code": "M 313",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 4,
+                "professor": "Jeffrey Andrews"
+            }
+        ]
+    },
+    {
+        "semester": "Spring 2020",
+        "desc": "Lorem Ipsum",
+        "classes": [
+            {
+                "name": "Software Design",
+                "code": "EE 312H",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 3,
+                "professor": "Milos Gligoric"
+            },
+            {
+                "name": "Intro to Embedded Systems",
+                "code": "EE 319H",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 3,
+                "professor": "Jonathan Valvano"
+            },
+            {
+                "name": "Cicuit Theory",
+                "code": "EE 411",
+                "credits": 4,
+                "desc": "Lorem Ipsum",
+                "difficulty": 2,
+                "professor": "Earl Swartzlander"
+            },
+            {
+                "name": "Linear Algebra (Matrix Theory)",
+                "code": "M 340L",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 4,
+                "professor": "John Gilbert"
+            },
+            {
+                "name": "Discrete Math",
+                "code": "M 325K",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 2,
+                "professor": "Kanthimathi Sathasivan"
+            }
+        ]
+    },
+    {
+        "semester": "Fall 2019",
+        "desc": "Lorem Ipsum",
+        "classes": [
+            {
+                "name": "Intro to Computing",
+                "code": "EE 306",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 2,
+                "professor": "Yale Patt"
+            },
+            {
+                "name": "Intro to Electrical Engineering",
+                "code": "EE 302",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 2,
+                "professor": "Seth Bank"
+            },
+            {
+                "name": "Differential Equations",
+                "code": "EE 427J",
+                "credits": 4,
+                "desc": "Lorem Ipsum",
+                "difficulty": 2,
+                "professor": "John Meth"
+            }
+        ]
+    }
+]
