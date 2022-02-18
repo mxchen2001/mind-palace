@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Good Linear Algebra Read",
+        "desc": "I've always found linear algebra as one of the harder subjects to comprehend — beyond solving problems in a math class. This book was recommended by my Computer Vision professor, and I think it is a good starting point for anyone who wants to learn.",
+        "url": "https://www.deeplearningbook.org/contents/linear_algebra.html",
+        "date": "2022-02-15",
+        "points": []
+    },
+    {
+        "title": "Stanford Compilers",
+        "desc": "I've always wanted to take a compilers class, but unfortunately the University of Texas at Austin does not offer any compilers course for an undergraduate ECE student. Fortunately, Stanford offers a free web course for anyone who wants to learn.",
+        "url": "https://www.edx.org/course/compilers",
+        "date": "2021-12-22",
+        "points": []
+    }
+]
