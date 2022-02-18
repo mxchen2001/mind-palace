@@ -1,5 +1,12 @@
 [
     {
+        "title": "References for Computer Architecture",
+        "desc": "I took 'Computer Architecture' with Yale Patt and I remember having trouble finding written references. Here some from UC Berkeley, I hope they still work.",
+        "url": "https://people.eecs.berkeley.edu/~kubitron/courses/cs252-S07/lectures/",
+        "date": "2022-02-17",
+        "points": []
+    },
+    {
         "title": "Good Linear Algebra Read",
         "desc": "I've always found linear algebra as one of the harder subjects to comprehend — beyond solving problems in a math class. This book was recommended by my Computer Vision professor, and I think it is a good starting point for anyone who wants to learn.",
         "url": "https://www.deeplearningbook.org/contents/linear_algebra.html",
