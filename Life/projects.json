@@ -3,7 +3,7 @@
         "name": "Vault",
         "desc": "An Emulated Shell with basic shell like functionality where I keep some interesting discoveries.",
         "img_url": "vault",
-        "link": "https://www.xige.page/vault/",
+        "link": "https://mxchen2001.github.io/vault/",
         "keywords": [
             "React",
             "Shell",
@@ -16,7 +16,7 @@
         "name": "MergePad",
         "desc": "A web based collaborative code editor that uses Automerge (CRDT) to resolve simultaneous conflicts.",
         "img_url": "mergepad",
-        "link": "https://www.xige.page/crdt-editor/",
+        "link": "https://mxchen2001.github.io/crdt-editor/",
         "keywords": [
             "React",
             "Socket.io",
@@ -29,7 +29,7 @@
         "name": "Markdown Slides",
         "desc": "A web based slide editor/renderer that uses markdown for quick and easy editing",
         "img_url": "mdSlides",
-        "link": "https://www.xige.page/markdown-render/",
+        "link": "https://mxchen2001.github.io/markdown-render/",
         "keywords": [
             "React",
             "Material UI"
@@ -51,7 +51,7 @@
         "name": "Ascii Diagrams",
         "desc": "A web based app that generates ascii diagram based on a simple markup style input.",
         "img_url": "ascii_diagram",
-        "link": "https://www.xige.page/ascii-diagrams/",
+        "link": "https://mxchen2001.github.io/ascii-diagrams/",
         "keywords": [
             "React",
             "Material UI",
