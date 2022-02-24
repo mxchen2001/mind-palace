@@ -1,6 +1,6 @@
 # Insertion Sort
 
-You've probably first performed insertion sort when one of your friends asked you to put a deck of cards in the right order. The of insertion sort is to put the current element into the correct position in the array. You will do this for every element in the array.
+You've probably first performed insertion sort when one of your friends asked you to put a deck of cards in the right order. The essence of insertion sort is to put the current element into the correct position in the array. You will do this for every element in the array.
 
 ```java
 void insertionSort(int[] array) {
