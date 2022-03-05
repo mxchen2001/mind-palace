@@ -15,7 +15,7 @@ $a_nxy^{(n)} + a_{n-1}xy^{(n-1)} + \dots + \;a_2xy'' + a_1xy' + a_0xy=f(x)$
 
 ## First Order ODE
 
-An **Ordinary Differential Equation** is an equation with derivative taken with respect to one varible.
+An **Ordinary Differential Equation** is an equation with derivative taken with respect to one variable.
 
 The [_Picard-Lindelof Theorem_](http://web.mit.edu/jorloff/www/18.03-esg/notes/existAndUniq.pdf)
 
@@ -44,7 +44,7 @@ Where the degree of every derivative is to the first degree
 >Therefore $ y'+ x^2y=5 $ is linear while $ y' + y^2 = 0 $ is not linear.
 
 ### Homogeneity
-A homogenous differential equation has the condition that every term in the differential equation has a variable taken to a deriative.
+A homogenous differential equation has the condition that every term in the differential equation has a variable taken to a derivative.
 
 >The following is homogeneous:
 ><center>
@@ -62,8 +62,8 @@ A homogenous differential equation has the condition that every term in the diff
 ></center>
 
 
-### Seperatable ODE
-Whenever a **Linear First Order Differential Equation** is **Homogeneous**, the equation can be seperated. An ODE expressed in the form
+### Separable ODE
+Whenever a **Linear First Order Differential Equation** is **Homogeneous**, the equation can be separated. An ODE expressed in the form
 <center>
 
 $\frac{dy}{dx} = g(x)y $
