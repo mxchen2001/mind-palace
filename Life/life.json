@@ -1,5 +1,12 @@
 [
     {
+        "title": "Shannon and Entropy",
+        "desc": "Recently, I was introduced to the idea of information entropy. With the popularity of WORDLE with my friends and the 3blue1brown video, here is a text recommended by my Data Science Lab Professor. Focus on page 1-19.",
+        "url": "https://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf",
+        "date": "2022-03-05",
+        "points": []
+    },
+    {
         "title": "References for Computer Architecture",
         "desc": "I took 'Computer Architecture' with Yale Patt and I remember having trouble finding written references. Here some from UC Berkeley, I hope they still work.",
         "url": "https://people.eecs.berkeley.edu/~kubitron/courses/cs252-S07/lectures/",
