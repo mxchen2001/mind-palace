@@ -6,11 +6,11 @@ $a_nxy^{(n)} + a_{n-1}xy^{(n-1)} + \dots + \;a_2xy'' + a_1xy' + a_0xy=f(x)$
 
 </center>
 
-**Order** – the degree of the highest derivative
-**Ordinary** – a function with only one variable
-**Partial** – a function under multiple variables
-**ODE** – "Ordinary Differential Equation"
-**Linear** – _*described later_
+**Order** – the degree of the highest derivative\
+**Ordinary** – a function with only one variable\
+**Partial** – a function under multiple variables\
+**ODE** – "Ordinary Differential Equation"\
+**Linear** – _*described later_\
 **Homogeneous** _*described later_
 
 ## First Order ODE
