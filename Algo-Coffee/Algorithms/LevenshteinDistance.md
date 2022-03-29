@@ -106,14 +106,15 @@ j   # s t r a n g e
 
 The levenshtein distance will be the number in the bootom right on the table. In this case its 3. We can confirm this because be inspection: (1) swap `f` and `s`, (2) insert `t` after the first swap then (3) swap `c` for `g`.
 
+### Implementation
 ```py
-def lev(s1, s2)
+def lev(s1, s2):
   m = len(s1)
   n = len(s2)
 
   opt = [[-1 for _ in range(m + 1)] for _ in range(n + 1)]
 
-  # initialize base cases
+  #initialize base cases
   for i in range(m + 1):
       opt[0][i] = i
   for j in range(n + 1):
