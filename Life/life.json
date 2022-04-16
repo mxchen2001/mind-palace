@@ -2,7 +2,7 @@
     {
         "title": "MLE and MAP",
         "desc": "I've realized recently that the hardest concept for many of my peered, myself include, has had trouble understanding MAP and MLE in the realm of probability. I recently found this great article that gives a good, intuitive introduction.",
-        "url": "https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estimation-and-maximum-a-posteriori-estimation-d7c318f9d22d#:~:text=estimated%20with%20MLE.-,Maximum%20A%20Posteriori%20Estimation,is%202%2F2%20%3D%201.",
+        "url": "https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estimation-and-maximum-a-posteriori-estimation-d7c318f9d22d",
         "date": "2022-04-05",
         "points": []
     },
