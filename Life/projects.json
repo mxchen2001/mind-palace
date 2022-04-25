@@ -1,13 +1,15 @@
 [
     {
         "name": "Algo Coffee",
-        "desc": "A simple website where I write down some ",
+        "desc": "A simple place where I write down some interesting some things",
         "img_url": "coffee",
         "link": "https://www.algorithms.coffee/",
         "keywords": [
             "React",
             "Github",
-            "Algorithms"
+            "Algorithms",
+            "Markdown",
+            "Katex"
         ]
     },
     {
