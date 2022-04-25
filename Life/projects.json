@@ -1,5 +1,16 @@
 [
     {
+        "name": "Algo Coffee",
+        "desc": "A simple website where I write down some ",
+        "img_url": "coffee",
+        "link": "https://www.algorithms.coffee/",
+        "keywords": [
+            "React",
+            "Github",
+            "Algorithms",
+        ]
+    },
+    {
         "name": "Vault",
         "desc": "An Emulated Shell with basic shell like functionality where I keep some interesting discoveries.",
         "img_url": "vault",
