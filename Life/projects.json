@@ -1,7 +1,39 @@
 [
     {
+        "name": "x86 Processor in Structural Verilog",
+        "desc": "A structural verilog implementation of the x86 processor using a subset of the x86 instruction set. Unironically the hardest project I've ever done.",
+        "img_url": "microarch",
+        "link": "http://users.ece.utexas.edu/~patt/22s.382N/problemset/project/spec.html",
+        "keywords": [
+            "Verilog",
+            "x86",
+            "Microarchitecture"
+        ]
+    },
+    {
+        "name": "Pictionary",
+        "desc": "Play a game of pictionary with an AI.",
+        "img_url": "pictionary",
+        "link": "https://github.com/ishan0102/pictionary",
+        "keywords": [
+            "Computer Vision",
+            "Python"
+        ]
+    },
+    {
+        "name": "Commentary",
+        "desc": "Sentiment analysis of a tweet. Not the sentiment of the tweet, but the sentiment of the replies.",
+        "img_url": "commentary",
+        "link": "https://twittercommentary.netlify.app/",
+        "keywords": [
+            "NLP",
+            "Machine Learning",
+            "Python"
+        ]
+    },
+    {
         "name": "Algo Coffee",
-        "desc": "A simple place where I write down some interesting some things",
+        "desc": "A simple place where I write down some interesting things",
         "img_url": "coffee",
         "link": "https://www.algorithms.coffee/",
         "keywords": [
