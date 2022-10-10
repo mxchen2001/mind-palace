@@ -3,7 +3,7 @@
 There is a famous algorithm called Floyd’s Cycle Detection Algorithm aka Tortoise and Hare Algorithm. It is used to detect a cycles in a list.
 
 
-The tortoise is the **slow pointer** and the hare fast pointer. The hare will travel in strides ot 2 while the tortoise will travel in stride of 1.
+The tortoise is the **slow pointer** and the hare as **fast pointer**. The hare will travel in strides ot 2 while the tortoise will travel in stride of 1.
 
 Image the following senario a linked list with a cycle.
 <center>
