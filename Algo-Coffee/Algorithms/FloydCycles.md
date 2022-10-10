@@ -7,7 +7,9 @@ The tortoise is the **slow pointer** and the hare fast pointer. The hare will tr
 
 Image the following senario a linked list with a cycle.
 <center>
+
 ![Cycles](https://raw.githubusercontent.com/mxchen2001/mind-palace/master/Assets/algoCoffee/floydCycles.png)
+
 </center>
 
 Some notation that we wiil use: $m$ is the distance from the start of the list to the start of the cycle, $P$ is the length of the cycle, and $k$ is the distance from the start of the cycle to the point where the hare and tortoise meet.
