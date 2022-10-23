@@ -1,5 +1,43 @@
 [
     {
+        "semester": "Fall 2022",
+        "desc": "Lorem Ipsum",
+        "classes": [
+            {
+                "name": "Parallel Computer Architecture",
+                "code": "ECE 382N.10",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 5,
+                "professor": "Derek Chiou"
+            },
+            {
+                "name": "Distributed Systems",
+                "code": "ECE 382N.11",
+                "credits": 4,
+                "desc": "Lorem Ipsum",
+                "difficulty": 4,
+                "professor": "Vijay K. Garg"
+            },
+            {
+                "name": "Engineering Program Analysis",
+                "code": "ECE 361G",  
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 3,
+                "professor": "Milos Gligoric"
+            },
+            {
+                "name": "Intro to Engineering Design",
+                "code": "ECE 364D",
+                "credits": 3,
+                "desc": "Lorem Ipsum",
+                "difficulty": 1,
+                "professor": "Leonard F. Register"
+            }
+        ]
+    },
+    {
         "semester": "Spring 2022",
         "desc": "Lorem Ipsum",
         "classes": [
