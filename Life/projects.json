@@ -1,5 +1,27 @@
 [
     {
+        "name": "Snippets",
+        "desc": "I got tired of searching for the same snippets over and over again, so I decided to make chrome extension to keep them all in one place.",
+        "img_url": "snippets",
+        "link": "http://users.ece.utexas.edu/~patt/22s.382N/problemset/project/spec.html",
+        "keywords": [
+            "Javascript",
+            "HTML",
+            "SASS"
+        ]
+    },
+    {
+        "name": "Flatter.page",
+        "desc": "My custom react component library that I use for code blocks",
+        "img_url": "flatter",
+        "link": "https://www.flatter.page",
+        "keywords": [
+            "React",
+            "Javascript",
+            "HTML"
+        ]
+    },
+    {
         "name": "x86 Processor in Structural Verilog",
         "desc": "A structural verilog implementation of the x86 processor using a subset of the x86 instruction set. Unironically the hardest project I've ever done.",
         "img_url": "microarch",
