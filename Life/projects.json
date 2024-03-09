@@ -11,6 +11,15 @@
         ]
     },
     {
+        "name": "source.css",
+        "desc": "Got tired of trying to styles websites manually, wanted a consistent theme I can use across my projects.",
+        "img_url: "sourcecss",
+        "link": "https://mxchen2001.github.io/source.css/",
+        "keywords": [
+            "CSS"
+        ]
+    },
+    {
         "name": "Snippets",
         "desc": "I got tired of searching for the same snippets over and over again, so I decided to make chrome extension to keep them all in one place.",
         "img_url": "snippets",
