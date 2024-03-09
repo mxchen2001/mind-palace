@@ -13,7 +13,7 @@
     {
         "name": "source.css",
         "desc": "Got tired of trying to styles websites manually, wanted a consistent theme I can use across my projects.",
-        "img_url: "sourcecss",
+        "img_url": "sourcecss",
         "link": "https://mxchen2001.github.io/source.css/",
         "keywords": [
             "CSS"
