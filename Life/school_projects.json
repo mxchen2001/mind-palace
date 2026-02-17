@@ -1,0 +1,134 @@
+[
+    {
+        "name": "MergePad",
+        "desc": "A web based collaborative code editor that uses Automerge (CRDT) to resolve simultaneous conflicts.",
+        "img_url": "mergepad",
+        "link": "https://mxchen2001.github.io/crdt-editor/",
+        "keywords": [
+            "React",
+            "Socket.io",
+            "Automerge",
+            "CRDT",
+            "P2P"
+        ]
+    },
+    {
+        "name": "Snippets",
+        "desc": "I got tired of searching for the same snippets over and over again, so I decided to make chrome extension to keep them all in one place.",
+        "img_url": "snippets",
+        "link": "https://github.com/mxchen2001/snippets",
+        "keywords": [
+            "Javascript",
+            "HTML",
+            "SASS"
+        ]
+    },
+    {
+        "name": "Flatter.page",
+        "desc": "My custom react component library that I use for code blocks",
+        "img_url": "flatter",
+        "link": "https://www.flatter.page",
+        "keywords": [
+            "React",
+            "Javascript",
+            "HTML"
+        ]
+    },
+    {
+        "name": "x86 Processor in Structural Verilog",
+        "desc": "A structural verilog implementation of the x86 processor using a subset of the x86 instruction set. Unironically the hardest project I've ever done.",
+        "img_url": "microarch",
+        "link": "http://users.ece.utexas.edu/~patt/22s.382N/problemset/project/spec.html",
+        "keywords": [
+            "Verilog",
+            "x86",
+            "Microarchitecture"
+        ]
+    },
+    {
+        "name": "Pictionary",
+        "desc": "Play a game of pictionary with an AI.",
+        "img_url": "pictionary",
+        "link": "https://github.com/ishan0102/pictionary",
+        "keywords": [
+            "Computer Vision",
+            "Python"
+        ]
+    },
+    {
+        "name": "Commentary",
+        "desc": "Sentiment analysis of a tweet. Not the sentiment of the tweet, but the sentiment of the replies.",
+        "img_url": "commentary",
+        "link": "https://twittercommentary.netlify.app/",
+        "keywords": [
+            "NLP",
+            "Machine Learning",
+            "Python"
+        ]
+    },
+    {
+        "name": "Markdown Slides",
+        "desc": "A web based slide editor/renderer that uses markdown for quick and easy editing",
+        "img_url": "mdSlides",
+        "link": "https://mxchen2001.github.io/markdown-render/",
+        "keywords": [
+            "React",
+            "Material UI"
+        ]
+    },
+    {
+        "name": "MOS",
+        "desc": "A Hobby Operating System built for x86 that was inspired after completing the PINTOS labs done in my Operating Systems.",
+        "img_url": "mos",
+        "link": "https://github.com/mxchen2001/mos",
+        "keywords": [
+            "NASM",
+            "C",
+            "Makefile",
+            "In-Progress"
+        ]
+    },
+    {
+        "name": "This Website",
+        "desc": "This website is built using React an Material UI and the Parallax is built using React. This gives a quick overview of my UT life. ",
+        "img_url": "thisSite",
+        "link": "https://github.com/mxchen2001/mxchen2001.github.io",
+        "keywords": [
+            "TailwindCSS",
+            "React",
+            "Material UI"
+        ]
+    },
+    {
+        "name": "Ascii Diagrams",
+        "desc": "A web based app that generates ascii diagram based on a simple markup style input.",
+        "img_url": "ascii_diagram",
+        "link": "https://mxchen2001.github.io/ascii-diagrams/",
+        "keywords": [
+            "React",
+            "Material UI",
+            "In-Progress"
+        ]
+    },
+    {
+        "name": "Hack TX",
+        "desc": "A NLP app built using React that that uses Google's NLP engine that gives feedback to help students with job inteviews.",
+        "img_url": "hacktx2020",
+        "link": "https://github.com/ishan0102/hacktx-20",
+        "keywords": [
+            "React",
+            "Material UI",
+            "Python"
+        ]
+    },
+    {
+        "name": "Vemno Automation",
+        "desc": "Built using ElectronJS and Python that allows you to send a large scale transaction using a spreadsheet to multiple users",
+        "img_url": "venmo_electron",
+        "link": "https://github.com/mxchen2001/Venmo-Automation",
+        "keywords": [
+            "ElectronJS",
+            "Python"
+        ]
+    }
+]
