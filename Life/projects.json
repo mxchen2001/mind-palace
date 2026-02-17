@@ -1,9 +1,23 @@
 [
     {
+        "name": "Lebi",
+        "desc": "A restaurant discovery app that uses your location, weather, and mood to serve personalized picks you swipe through. Powered by Google Places and OpenAI.",
+        "img_url": "lebi",
+        "link": "https://lebiapp.com",
+        "keywords": [
+            "Nextjs",
+            "React",
+            "TailwindCSS",
+            "OpenAI",
+            "Google Places API",
+            "TypeScript"
+        ]
+    },
+    {
         "name": "Engblogs",
         "desc": "Wanted an IOS version of engblogs.dev developed by @ishan0102.",
         "img_url": "engblogs",
-        "link": "https://apps.apple.com/us/app/engblogs/id6457546082",
+        "link": "https://www.engblogs.dev/",
         "keywords": [
             "Swift",
             "Nextjs",
